@@ -1,1 +1,2 @@
 echo "feature x implementation"
+echo "more changes in feature x"
